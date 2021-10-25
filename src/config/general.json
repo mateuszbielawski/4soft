@@ -1,0 +1,4 @@
+{
+    "env": "stg",
+    "base_url": "https://api.recruitment.4soft.tech/"
+}
